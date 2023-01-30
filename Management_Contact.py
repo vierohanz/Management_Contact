@@ -1,8 +1,8 @@
 import os
 
-nama = ['Rais Hannan Rizanto', 'Hanungsiwi']
+nama = ['Rais Hannan Rizanto', 'widayatii']
 nim = ['4.33.22.1.21', '4.33.22.1.40']
-email = ['rizantohannan@gmail.com', 'hanungsw@gmail.com']
+email = ['rizantohannan@gmail.com', 'widayati@gmail.com']
 
 
 def data_display():  # fungsi untuk menampilkan data yang tersimpan di list
